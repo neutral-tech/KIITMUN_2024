@@ -7,9 +7,7 @@ This is an Android application for the delegates of **KIIT Model United Nations 
 
 ## 📽 App Preview
 
-<video width="640" height="360" controls>
-  <source src="https://drive.google.com/uc?export=download&id=1ZP2QpyxwFPaf8FGEi68kBNDbXXx8kpUM" type="video/mp4">
-</video>
+[![Watch Video](https://drive.google.com/file/d/1-gIxLlBQ1yKK2a0DcPa96po3iAf932bm/view?usp=drive_link?text=Click+to+Watch+Preview)](https://drive.google.com/file/d/1ZP2QpyxwFPaf8FGEi68kBNDbXXx8kpUM/preview)
 
 ## 📌 Features
 - Easy access to event schedules
