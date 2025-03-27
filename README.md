@@ -6,9 +6,10 @@ This is an Android application for the delegates of **KIIT Model United Nations 
 [Click Here to Download](https://drive.google.com/file/d/1_RumeW6Dwlu_qePRHV_nKeY2EoOt7Xb7/view?usp=drive_link)  
 
 ## 📽 App Preview
-_(Watch the preview video below)_
 
-<iframe src="https://drive.google.com/file/d/1ZP2QpyxwFPaf8FGEi68kBNDbXXx8kpUM/preview" width="640" height="360" allow="autoplay"></iframe>
+<video width="640" height="360" controls>
+  <source src="https://drive.google.com/uc?export=download&id=1ZP2QpyxwFPaf8FGEi68kBNDbXXx8kpUM" type="video/mp4">
+</video>
 
 ## 📌 Features
 - Easy access to event schedules
@@ -22,9 +23,8 @@ _(Watch the preview video below)_
 
 ## 🔗 Contact
 For any queries or support, contact us at:  
-📧 Email: kiit.mun@kiit.ac.in 
+📧 Email: kiit.mun@kiit.ac.in  
 🌐 Website: [KIIT MUN 2024](https://www.kiitmun.org)
 
 ---
 **Developed for KIIT Model United Nations 2024**
-
